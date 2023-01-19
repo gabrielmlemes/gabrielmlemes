@@ -14,7 +14,6 @@
   <img align="center" alt="Lemes-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Lemes-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Lemes-BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="right" alt="Lemes-pic" height="150" style="border-radius:50px;" src="https://instagram.fuba2-1.fna.fbcdn.net/v/t51.2885-15/312325782_1222938748264184_1532986118915384712_n.jpg?stp=dst-jpg_e15_p240x240&_nc_ht=instagram.fuba2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=CD3K9qWQzqQAX_NH2V9&edm=ABJHkxYAAAAA&ccb=7-5&ig_cache_key=Mjk1NjIxODU5ODQxOTg5NDIxNA%3D%3D.2-ccb7-5&oh=00_AT-b99LVh2_70LdOWgFcmn2Cs0TBFv4p8zUFMpJ-U-6oTA&oe=635BAC82&_nc_sid=fa978cwidth=676&height=676">
 </div>
   
   ##
