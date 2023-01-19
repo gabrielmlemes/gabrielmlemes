@@ -1,6 +1,6 @@
 ### Opa! Fique à vontade 👋😉
 
-- 🔰 Atualmente atuo como militar das forças armadas!
+- 🔰 Militar do Exército Brasileiro!
 - 🌱 No momento tenho focado meus estudos em Javascript!
 - 🔜 Procuro me tornar um desenvolvedor Full Stack!
 
