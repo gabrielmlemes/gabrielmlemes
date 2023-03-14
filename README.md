@@ -1,7 +1,7 @@
 ### Olá! Fique à vontade 👋😉
 
 - 🔰 Militar do Exército Brasileiro!
-- 🌱 No momento tenho focado meus estudos em Javascript!
+- 🌱 No momento tenho focado meus estudos em React.js!
 - 🔜 Desejo me tornar um desenvolvedor Full Stack!
 
 <div> 
