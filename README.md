@@ -2,7 +2,7 @@
 
 - 🔰 Militar do Exército Brasileiro!
 - 🌱 No momento tenho focado meus estudos em React.js!
-- 🔜 Desejo me tornar um desenvolvedor Full Stack!
+- 🔜 Em busca de me tornar um desenvolvedor Full Stack!
 
 <div> 
   <a href="https://github.com/gabrielmlemes">
