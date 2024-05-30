@@ -22,5 +22,5 @@
 <div> 
   <a href="https://gabrielmlemes.vercel.app/" target="_blank"><img src="https://gabrielmlemes.vercel.app/img/foto-inicio.png" style="width: 30px;" target="_blank"></a>
   <a href = "mailto:g.moreiralemess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-m-775abb103/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-l-775abb103/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
