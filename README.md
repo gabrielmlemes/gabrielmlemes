@@ -7,9 +7,9 @@
 </h1>
 
 
-- Sou um desenvolvedor Front-end com mais de 3 anos de experiência e apaixonado pelo que faço 👨‍💻
+- Sou um desenvolvedor FullStack com mais de 3 anos de experiência e apaixonado pelo que faço 👨‍💻
 - Formado em Análise e Desenvolvimento de Sistemas 👨‍🎓
-- Militar da ativa do Exército Brasileiro 🔰
+- Militar do Exército Brasileiro 🔰
 
 <div align="center"> 
   <a href="https://portfolio-gabriel-lemes.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio%20Gabriel%20Lemes-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
