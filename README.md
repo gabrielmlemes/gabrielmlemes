@@ -7,7 +7,7 @@
 </h1>
 
 
-- Sou um desenvolvedor FullStack com mais de 3 anos de experiência e apaixonado pelo que faço 👨‍💻
+- Desenvolvedor FullStack com mais de 3 anos de experiência 👨‍💻
 - Formado em Análise e Desenvolvimento de Sistemas 👨‍🎓
 - Militar do Exército Brasileiro 🔰
 
