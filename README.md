@@ -6,8 +6,7 @@
   Olá! Bem vindo(a)👋
 </h1>
 
-
-- Desenvolvedor FullStack com mais de 3 anos de experiência 👨‍💻
+- Desenvolvedor FullStack 👨‍💻
 - Formado em Análise e Desenvolvimento de Sistemas 👨‍🎓
 - Militar do Exército Brasileiro 🔰
 
