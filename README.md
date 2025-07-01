@@ -7,7 +7,7 @@
 </h1>
 
 - Desenvolvedor FullStack 👨‍💻
-- Formado em Análise e Desenvolvimento de Sistemas 👨‍🎓
+- Análise e Desenvolvimento de Sistemas 👨‍🎓
 - Militar do Exército Brasileiro 🔰
 
 <div align="center"> 
