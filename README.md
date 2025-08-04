@@ -6,7 +6,7 @@
   Olá! Bem vindo(a)👋
 </h1>
 
-- Desenvolvedor Fullstack 👨‍💻
+- Desenvolvedor Front-end 👨‍💻
 - Análise e Desenvolvimento de Sistemas 👨‍🎓
 - Militar do Exército Brasileiro 🔰
 
