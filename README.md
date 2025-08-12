@@ -77,3 +77,10 @@
   <img width="55%" src="https://github-readme-stats.vercel.app/api?username=gabrielmlemes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmlemes&layout=compact&langs_count=7&theme=highcontrast"/>
 </p>
+
+---
+
+### 📌 Minhas contribuições 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabrielmlemes/gabrielmlemes/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
