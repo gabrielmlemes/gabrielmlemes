@@ -1,17 +1,17 @@
 <h1 align="center">👋 Olá, seja bem-vindo(a)!</h1>
 
 <p align="center">
-  <strong>Gabriel Lemes</strong>, Desenvolvedor Front-end com experiência em construção de aplicações web modernas, 
+  <strong>Gabriel Lemes</strong>, Desenvolvedor Fullstack com experiência em construção de aplicações web modernas, 
   apaixonado por tecnologia, performance e boas práticas de desenvolvimento.
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
-- 💻 Desenvolvedor Front-end  
-- 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-- 🔰 Militar do Exército Brasileiro  
-- 🚀 Sempre em busca de novos desafios e aprendizados
+- 💻 Atuo como Desenvolvedor Front-end em uma equipe de tecnologia.
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas.
+- 🔰 Militar do Exército Brasileiro.
+- 🚀 Sempre em busca de novos desafios e aprendizados.
 
 ---
 
@@ -44,6 +44,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express)
 ![Nest.js](https://img.shields.io/badge/Nest.js-333333?style=flat&logo=nestjs)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
+![Flask](https://img.shields.io/badge/Flask-333333?style=flat&logo=flask)
+
 
 #### **Estilização**
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss)
@@ -54,10 +57,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite)
+![Firestore](https://img.shields.io/badge/Firestore-333333?style=flat&logo=firebase)
 ![Prisma](https://img.shields.io/badge/Prisma-333333?style=flat&logo=prisma)
 
 #### **Ferramentas & Outros**
-![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat&logo=firebase)
+
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-333333?style=flat&logo=githubactions)
