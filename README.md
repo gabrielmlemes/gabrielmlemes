@@ -10,8 +10,7 @@
 ### 👨‍💻 Sobre mim
 - 💻 Atuo como Desenvolvedor Front-end em uma equipe de tecnologia.
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-- 🔰 Militar do Exército Brasileiro.
-- 🚀 Sempre em busca de novos desafios e aprendizados.
+- 🚀 Entusiasta de I.A e automações.
 
 ---
 
